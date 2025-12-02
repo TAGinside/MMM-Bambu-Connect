@@ -1,10 +1,10 @@
 modules: [
-  {
+ {
   module: "MMM-Bambu-Connect",
   position: "top_left",
   config: {
-    email: "email@example.com",
-    password: "password"
+    token: "VOTRE_TOKEN_BAMBU_CONNECT_ICI",
+    updateInterval: 60000
   }
 },
 ]
