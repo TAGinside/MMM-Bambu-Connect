@@ -1,3 +1,8 @@
+# Bambu Connect Module for MagicMirror
+Module: MMM-Bambu-Connect
+
+This [MagicMirror](https://github.com/MichMich/MagicMirror) module, display informations about your printer Bambulab
+
 # Installation
 
 Navigate into your MagicMirror's `modules` folder:
