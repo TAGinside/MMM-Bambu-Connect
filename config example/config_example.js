@@ -6,5 +6,5 @@ modules: [
     email: "email@example.com",
     password: "password"
   }
-}
+},
 ]
