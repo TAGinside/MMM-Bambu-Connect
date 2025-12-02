@@ -1,0 +1,12 @@
+{
+  "name": "MMM-Bambu-Connect",
+  "version": "1.0.0",
+  "description": "MagicMirror module for displaying Bambu Lab 3D printer status using Bambu Connect API",
+  "main": "MMM-Bambu-Connect.js",
+  "scripts": {},
+  "author": "TAGinside",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
